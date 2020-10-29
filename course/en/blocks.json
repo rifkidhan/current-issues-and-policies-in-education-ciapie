@@ -1,0 +1,6204 @@
+[
+  {
+    "title": "About the course",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "scroll-title scroll-body",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f984cb0ea6f3809a0c2eb96",
+    "_parentId": "5f984cafea6f3809a0c2eb95",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/b65dc47d0c90e552d929cbdc576a4a697b912cde.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f98592bea6f3809a0c2ebaa",
+    "_parentId": "5f98592aea6f3809a0c2eba9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f985960ea6f3809a0c2ebae",
+    "_parentId": "5f985960ea6f3809a0c2ebad",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/28a37bc5bb99981953e4f870fa39d5e46bcb5d46.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9865a3ea6f3809a0c2ebbc",
+    "_parentId": "5f9865a3ea6f3809a0c2ebbb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9872f5ea6f3809a0c2ebca",
+    "_parentId": "5f9872f5ea6f3809a0c2ebc9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/263533412193c81bc4dd09e4162bf91ff502965b.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987370ea6f3809a0c2ebcd",
+    "_parentId": "5f987370ea6f3809a0c2ebcc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9873cdea6f3809a0c2ebd0",
+    "_parentId": "5f9873cdea6f3809a0c2ebcf",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/8ad375533cc4428329ab62f8b7cd3fdafddc78df.jpg",
+        "_medium": "course/en/assets/8ad375533cc4428329ab62f8b7cd3fdafddc78df.jpg",
+        "_small": "course/en/assets/8ad375533cc4428329ab62f8b7cd3fdafddc78df.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f98744fea6f3809a0c2ebd5",
+    "_parentId": "5f98744eea6f3809a0c2ebd4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9874d6ea6f3809a0c2ebd9",
+    "_parentId": "5f9874d6ea6f3809a0c2ebd8",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987511ea6f3809a0c2ebdd",
+    "_parentId": "5f987511ea6f3809a0c2ebdc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/b3f3dabfe4652d6bc35de7c97d614c0e4f57d4a7.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9875f5ea6f3809a0c2ebe2",
+    "_parentId": "5f9875f5ea6f3809a0c2ebe1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987641ea6f3809a0c2ebe6",
+    "_parentId": "5f987641ea6f3809a0c2ebe5",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987666ea6f3809a0c2ebea",
+    "_parentId": "5f987666ea6f3809a0c2ebe9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/95b446c30c0fdae69ee0b9a4f5eef4cf7df189a2.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987683ea6f3809a0c2ebee",
+    "_parentId": "5f987683ea6f3809a0c2ebed",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987718ea6f3809a0c2ebf3",
+    "_parentId": "5f987718ea6f3809a0c2ebf2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/c7f202164740f1fcca856f565117654b3896f6c1.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "scroll-title scroll-body",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987732ea6f3809a0c2ebf7",
+    "_parentId": "5f987732ea6f3809a0c2ebf6",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/8ad375533cc4428329ab62f8b7cd3fdafddc78df.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9913c697dd7c27cc67308d",
+    "_parentId": "5f9913c697dd7c27cc67308c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "21st Century Skill (1)",
+    "displayTitle": "21st Century Skill (1)",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991e4c97dd7c27cc6730ca",
+    "_parentId": "5f991e4c97dd7c27cc6730c9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "21st Century Skill (2)",
+    "displayTitle": "21st Century Skill (2)",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991f6197dd7c27cc6730d1",
+    "_parentId": "5f991f6197dd7c27cc6730d0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "21st Century Skill (3)",
+    "displayTitle": "21st Century Skill (3)",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991ff397dd7c27cc6730d9",
+    "_parentId": "5f991ff397dd7c27cc6730d8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9925b597dd7c27cc6730f1",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f992aa197dd7c27cc673118",
+    "_parentId": "5f992aa197dd7c27cc673117",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f992c2a97dd7c27cc673124",
+    "_parentId": "5f992c2a97dd7c27cc673123",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "video 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 24,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9935d597dd7c27cc673145",
+    "_parentId": "5f9935d497dd7c27cc673144",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f994e77cd23082f2c576b54",
+    "_parentId": "5f98659bea6f3809a0c2ebb7",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f995af7cd23082f2c576b75",
+    "_parentId": "5f995af7cd23082f2c576b74",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f996a3ecd23082f2c576b8b",
+    "_parentId": "5f996a3ecd23082f2c576b8a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/389286b7281a3550c7a1a83deda2385e0677ae95.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f996fe9cd23082f2c576b97",
+    "_parentId": "5f996fbfcd23082f2c576b8f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 29,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999026cd23082f2c576bb0",
+    "_parentId": "5f999026cd23082f2c576baf",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9992b2cd23082f2c576bca",
+    "_parentId": "5f9992b2cd23082f2c576bc9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/b105df06898c794fd5a77a965922abbfd9a3302b.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99b958cd23082f2c576bfb",
+    "_parentId": "5f99c930cd23082f2c576c1c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/5750e2551b018c7166863f4b8a22955e9db3981e.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9912c397dd7c27cc673087",
+    "_parentId": "5f984cafea6f3809a0c2eb95",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/022376a6592d1dc1206052fdcc40fe437fa2690f.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9915bc97dd7c27cc673095",
+    "_parentId": "5f9913c697dd7c27cc67308c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 34,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991c5797dd7c27cc6730b9",
+    "_parentId": "5f98592aea6f3809a0c2eba9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/b3f3dabfe4652d6bc35de7c97d614c0e4f57d4a7.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991ed397dd7c27cc6730cc",
+    "_parentId": "5f991e4c97dd7c27cc6730c9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/eed46fc4756edd4184c24eb08addefd8b6a6ca5a.jpg",
+        "_medium": "course/en/assets/eed46fc4756edd4184c24eb08addefd8b6a6ca5a.jpg",
+        "_small": "course/en/assets/eed46fc4756edd4184c24eb08addefd8b6a6ca5a.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991f6197dd7c27cc6730d2",
+    "_parentId": "5f991f6197dd7c27cc6730d0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/711276b12ea8e4a74afc14f0c01c86752f6c79eb.jpg",
+        "_medium": "course/en/assets/711276b12ea8e4a74afc14f0c01c86752f6c79eb.jpg",
+        "_small": "course/en/assets/711276b12ea8e4a74afc14f0c01c86752f6c79eb.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 37,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991ff397dd7c27cc6730da",
+    "_parentId": "5f991ff397dd7c27cc6730d8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/cdbca327846c0bd649daeee6a7b97faa56afb8d5.jpg",
+        "_medium": "course/en/assets/cdbca327846c0bd649daeee6a7b97faa56afb8d5.jpg",
+        "_small": "course/en/assets/cdbca327846c0bd649daeee6a7b97faa56afb8d5.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 38,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9924a797dd7c27cc6730ec",
+    "_parentId": "5f985960ea6f3809a0c2ebad",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/621b346c054e679792a6f1335cbe6e9833545997.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "_trackingId": 39,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99264997dd7c27cc6730f3",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 40,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f992b8c97dd7c27cc67311b",
+    "_parentId": "5f992aa197dd7c27cc673117",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 41,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f992c2a97dd7c27cc673125",
+    "_parentId": "5f992c2a97dd7c27cc673123",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 42,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99340b97dd7c27cc673139",
+    "_parentId": "5f9872f5ea6f3809a0c2ebc9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/f1625a56f98c2ad26b9651eace25b5e2e0d7c262.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Text 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 43,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99364397dd7c27cc673148",
+    "_parentId": "5f9935d497dd7c27cc673144",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "Question",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/fd764631feff0c3153b2af75d47c9e605c3a4e52.jpg",
+        "_medium": "course/en/assets/fd764631feff0c3153b2af75d47c9e605c3a4e52.jpg",
+        "_small": "course/en/assets/fd764631feff0c3153b2af75d47c9e605c3a4e52.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Question",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 44,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f994f8bcd23082f2c576b56",
+    "_parentId": "5f98659bea6f3809a0c2ebb7",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "Question",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/17adca870c66712f5a0ce68200ffb544f19ec311.jpg",
+        "_medium": "course/en/assets/17adca870c66712f5a0ce68200ffb544f19ec311.jpg",
+        "_small": "course/en/assets/17adca870c66712f5a0ce68200ffb544f19ec311.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 45,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f995a36cd23082f2c576b6e",
+    "_parentId": "5f987370ea6f3809a0c2ebcc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 46,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f995af7cd23082f2c576b76",
+    "_parentId": "5f995af7cd23082f2c576b74",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Text",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 47,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f996123cd23082f2c576b82",
+    "_parentId": "5f98744eea6f3809a0c2ebd4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/15ab81c78b44607e8703f17bac088b6b053234ab.jpg",
+        "_medium": "course/en/assets/15ab81c78b44607e8703f17bac088b6b053234ab.jpg",
+        "_small": "course/en/assets/15ab81c78b44607e8703f17bac088b6b053234ab.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 48,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99704ecd23082f2c576b98",
+    "_parentId": "5f996fbfcd23082f2c576b8f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/70ff811046d1314c87c0983ed886a728882db7bb.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component-solid",
+    "_trackingId": 49,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9986e3cd23082f2c576ba4",
+    "_parentId": "5f9875f5ea6f3809a0c2ebe1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/58979b47b12fd933d1b779d93e7033c319f07d5e.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 50,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f998ca2cd23082f2c576ba9",
+    "_parentId": "5f987641ea6f3809a0c2ebe5",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "Question",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/fa2f22a24e4445ec12b757438ee725883740afb6.jpg",
+        "_medium": "course/en/assets/fa2f22a24e4445ec12b757438ee725883740afb6.jpg",
+        "_small": "course/en/assets/fa2f22a24e4445ec12b757438ee725883740afb6.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 51,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999217cd23082f2c576bb9",
+    "_parentId": "5f999026cd23082f2c576baf",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 52,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999a13cd23082f2c576bd4",
+    "_parentId": "5f987683ea6f3809a0c2ebed",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 53,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999c75cd23082f2c576bdc",
+    "_parentId": "5f987718ea6f3809a0c2ebf2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/c7f202164740f1fcca856f565117654b3896f6c1.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 54,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99b52dcd23082f2c576bf3",
+    "_parentId": "5f996a3ecd23082f2c576b8a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/aa0fd191ced5461af90414576df7eb499fb377c2.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 55,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99ba5acd23082f2c576c00",
+    "_parentId": "5f99c930cd23082f2c576c1c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/95b446c30c0fdae69ee0b9a4f5eef4cf7df189a2.jpg",
+        "_medium": "course/en/assets/b105df06898c794fd5a77a965922abbfd9a3302b.jpg",
+        "_small": "course/en/assets/95b446c30c0fdae69ee0b9a4f5eef4cf7df189a2.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 56,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99132e97dd7c27cc673089",
+    "_parentId": "5f984cafea6f3809a0c2eb95",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/607014e9abeae4d3932bc377c1493e846d019560.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 57,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99165997dd7c27cc67309b",
+    "_parentId": "5f9913c697dd7c27cc67308c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/231b8054eeeb0029363f843a44d82166ee2ec523.jpg",
+        "_medium": "course/en/assets/231b8054eeeb0029363f843a44d82166ee2ec523.jpg",
+        "_small": "course/en/assets/231b8054eeeb0029363f843a44d82166ee2ec523.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 58,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991cad97dd7c27cc6730bb",
+    "_parentId": "5f98592aea6f3809a0c2eba9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/aa7c3152f02f6419e35b61a639624be819bad1de.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 59,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99256397dd7c27cc6730ee",
+    "_parentId": "5f985960ea6f3809a0c2ebad",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/ddf5757994d18974e484db60422de46541247eb2.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 60,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9926cc97dd7c27cc6730f9",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/29d442bb71a31a2c0e9b3a352a71715a90ee9149.jpg",
+        "_medium": "course/en/assets/29d442bb71a31a2c0e9b3a352a71715a90ee9149.jpg",
+        "_small": "course/en/assets/29d442bb71a31a2c0e9b3a352a71715a90ee9149.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 61,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f992bad97dd7c27cc67311e",
+    "_parentId": "5f992aa197dd7c27cc673117",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whiteblock",
+    "_trackingId": 62,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99352697dd7c27cc673142",
+    "_parentId": "5f9872f5ea6f3809a0c2ebc9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/e862561abb3656fc09dc906076d978f85176e5e9.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "video 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "_trackingId": 63,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99369e97dd7c27cc67314b",
+    "_parentId": "5f9935d497dd7c27cc673144",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Video 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 64,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99533fcd23082f2c576b5c",
+    "_parentId": "5f98659bea6f3809a0c2ebb7",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Text",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 65,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f995a85cd23082f2c576b71",
+    "_parentId": "5f987370ea6f3809a0c2ebcc",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/c7f202164740f1fcca856f565117654b3896f6c1.jpg",
+        "_medium": "course/en/assets/c7f202164740f1fcca856f565117654b3896f6c1.jpg",
+        "_small": "course/en/assets/c7f202164740f1fcca856f565117654b3896f6c1.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Text",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 66,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f995af7cd23082f2c576b77",
+    "_parentId": "5f995af7cd23082f2c576b74",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "Question",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/29d442bb71a31a2c0e9b3a352a71715a90ee9149.jpg",
+        "_medium": "course/en/assets/29d442bb71a31a2c0e9b3a352a71715a90ee9149.jpg",
+        "_small": "course/en/assets/29d442bb71a31a2c0e9b3a352a71715a90ee9149.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "scroll-title scroll-body",
+    "_trackingId": 67,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f997609cd23082f2c576b9c",
+    "_parentId": "5f996fbfcd23082f2c576b8f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/a9ec4a90afb2b2019905a11db78f541d64f7851e.jpg",
+        "_medium": "course/en/assets/a9ec4a90afb2b2019905a11db78f541d64f7851e.jpg",
+        "_small": "course/en/assets/a9ec4a90afb2b2019905a11db78f541d64f7851e.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 68,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999233cd23082f2c576bbd",
+    "_parentId": "5f999026cd23082f2c576baf",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 69,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999a5ccd23082f2c576bd6",
+    "_parentId": "5f987683ea6f3809a0c2ebed",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "Question",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/15ab81c78b44607e8703f17bac088b6b053234ab.jpg",
+        "_medium": "course/en/assets/15ab81c78b44607e8703f17bac088b6b053234ab.jpg",
+        "_small": "course/en/assets/15ab81c78b44607e8703f17bac088b6b053234ab.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient",
+    "_trackingId": 70,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999e54cd23082f2c576be5",
+    "_parentId": "5f987718ea6f3809a0c2ebf2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/c7f202164740f1fcca856f565117654b3896f6c1.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whiteblock",
+    "_trackingId": 71,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99b6afcd23082f2c576bf9",
+    "_parentId": "5f996a3ecd23082f2c576b8a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/5750e2551b018c7166863f4b8a22955e9db3981e.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "green-component-solid white-title",
+    "_trackingId": 72,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99bb07cd23082f2c576c02",
+    "_parentId": "5f99c930cd23082f2c576c1c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/6de52d2b30732ff4ec3dc1072458a6ffd98a0856.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 73,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9916fa97dd7c27cc67309d",
+    "_parentId": "5f9913c697dd7c27cc67308c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/92ca64f94f07d5f1ed774985fe4fc8e15a71aaed.jpg",
+        "_medium": "course/en/assets/92ca64f94f07d5f1ed774985fe4fc8e15a71aaed.jpg",
+        "_small": "course/en/assets/92ca64f94f07d5f1ed774985fe4fc8e15a71aaed.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 74,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991cf597dd7c27cc6730bd",
+    "_parentId": "5f98592aea6f3809a0c2eba9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/348042e1343048f1646e2eb050eb83f3501517c9.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 75,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99270397dd7c27cc6730fb",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/cdbca327846c0bd649daeee6a7b97faa56afb8d5.jpg",
+        "_medium": "course/en/assets/cdbca327846c0bd649daeee6a7b97faa56afb8d5.jpg",
+        "_small": "course/en/assets/cdbca327846c0bd649daeee6a7b97faa56afb8d5.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 76,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f992bdc97dd7c27cc673120",
+    "_parentId": "5f992aa197dd7c27cc673117",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 77,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f992c2a97dd7c27cc673127",
+    "_parentId": "5f992c2a97dd7c27cc673123",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    }
+  },
+  {
+    "title": "Text 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 78,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9936fa97dd7c27cc67314e",
+    "_parentId": "5f9935d497dd7c27cc673144",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "Question",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/fd764631feff0c3153b2af75d47c9e605c3a4e52.jpg",
+        "_medium": "course/en/assets/fd764631feff0c3153b2af75d47c9e605c3a4e52.jpg",
+        "_small": "course/en/assets/fd764631feff0c3153b2af75d47c9e605c3a4e52.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Question",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 79,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f995344cd23082f2c576b5f",
+    "_parentId": "5f98659bea6f3809a0c2ebb7",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "Question",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/82278357b8ede822b7e2683a590000c15f4a641b.jpg",
+        "_medium": "course/en/assets/82278357b8ede822b7e2683a590000c15f4a641b.jpg",
+        "_small": "course/en/assets/82278357b8ede822b7e2683a590000c15f4a641b.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 80,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99924acd23082f2c576bc1",
+    "_parentId": "5f999026cd23082f2c576baf",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 81,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999cc7cd23082f2c576bde",
+    "_parentId": "5f987718ea6f3809a0c2ebf2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/82278357b8ede822b7e2683a590000c15f4a641b.jpg"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "_trackingId": 82,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99be08cd23082f2c576c07",
+    "_parentId": "5f99c930cd23082f2c576c1c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "_trackingId": 83,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99177697dd7c27cc67309f",
+    "_parentId": "5f9913c697dd7c27cc67308c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "_trackingId": 84,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991d6297dd7c27cc6730bf",
+    "_parentId": "5f98592aea6f3809a0c2eba9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-title",
+    "_trackingId": 85,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99275797dd7c27cc6730fd",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "video 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 86,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99373897dd7c27cc673154",
+    "_parentId": "5f9935d497dd7c27cc673144",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 87,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999264cd23082f2c576bc5",
+    "_parentId": "5f999026cd23082f2c576baf",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 88,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99c272cd23082f2c576c0c",
+    "_parentId": "5f99c930cd23082f2c576c1c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/b105df06898c794fd5a77a965922abbfd9a3302b.jpg",
+        "_medium": "course/en/assets/b105df06898c794fd5a77a965922abbfd9a3302b.jpg",
+        "_small": "course/en/assets/b105df06898c794fd5a77a965922abbfd9a3302b.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 89,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99181597dd7c27cc6730a4",
+    "_parentId": "5f9913c697dd7c27cc67308c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/c7f202164740f1fcca856f565117654b3896f6c1.jpg",
+        "_medium": "course/en/assets/c7f202164740f1fcca856f565117654b3896f6c1.jpg",
+        "_small": "course/en/assets/c7f202164740f1fcca856f565117654b3896f6c1.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 90,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991d8f97dd7c27cc6730c3",
+    "_parentId": "5f98592aea6f3809a0c2eba9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "_trackingId": 91,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9927ac97dd7c27cc673101",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Text 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 92,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99375097dd7c27cc673157",
+    "_parentId": "5f9935d497dd7c27cc673144",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "Question",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/fd764631feff0c3153b2af75d47c9e605c3a4e52.jpg",
+        "_medium": "course/en/assets/fd764631feff0c3153b2af75d47c9e605c3a4e52.jpg",
+        "_small": "course/en/assets/fd764631feff0c3153b2af75d47c9e605c3a4e52.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "What are Micro-Credentials?",
+    "displayTitle": "What are Micro-Credentials?",
+    "body": "<p>(Fong et al., 2016; Abramovich, 2016; Fishman,Teasley, Cederquist, 2018)</p>",
+    "_classes": "whiteblock",
+    "_trackingId": 93,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99c3c8cd23082f2c576c0e",
+    "_parentId": "5f99c930cd23082f2c576c1c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 94,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99186d97dd7c27cc6730a6",
+    "_parentId": "5f9913c697dd7c27cc67308c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "References",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "_trackingId": 95,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9927f597dd7c27cc673103",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/b39d57a0436c5a081abe0058da84556cdb76eb6b.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "_trackingId": 96,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99c50bcd23082f2c576c13",
+    "_parentId": "5f99c930cd23082f2c576c1c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 97,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9918b097dd7c27cc6730a8",
+    "_parentId": "5f9913c697dd7c27cc67308c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/62a2c7579ccd774f71c69ad14d9d507e1203f096.jpg",
+        "_medium": "course/en/assets/62a2c7579ccd774f71c69ad14d9d507e1203f096.jpg",
+        "_small": "course/en/assets/62a2c7579ccd774f71c69ad14d9d507e1203f096.jpg"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 98,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99286a97dd7c27cc673105",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Direction",
+    "displayTitle": "New Direction",
+    "body": "",
+    "_classes": "whiteblock",
+    "_trackingId": 99,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99c5eacd23082f2c576c15",
+    "_parentId": "5f99c930cd23082f2c576c1c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "_trackingId": 100,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99289597dd7c27cc673107",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 101,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99c721cd23082f2c576c17",
+    "_parentId": "5f99c930cd23082f2c576c1c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whiteblock",
+    "_trackingId": 102,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9928e797dd7c27cc67310b",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": "course/en/assets/e11b85f283ee67eed3b97c544bd6a1979ea38cb5.jpg"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "greendient white-component-solid",
+    "_trackingId": 103,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99295a97dd7c27cc67310d",
+    "_parentId": "5f9925b597dd7c27cc6730f0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "src": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  }
+]

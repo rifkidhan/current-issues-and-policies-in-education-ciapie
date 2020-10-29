@@ -1,0 +1,6553 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "ABOUT THE COURSE",
+    "displayTitle": "ABOUT THE COURSE",
+    "body": "<p>The course critically highlights current educational issues and policies across countries published in various reputable sources, such as scientific journals, proceedings, magazines, films, videos, and newspapers. Discussion, report writing, presentation, and debates are conducted on the bases of the priority issues currently in the attention of various academic forums.</p>",
+    "_id": "5f984cb0ea6f3809a0c2eb97",
+    "_parentId": "5f984cb0ea6f3809a0c2eb96",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "scroll-title scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Hello!",
+    "displayTitle": "Hello!",
+    "body": "<p>For those who got the chance to discuss the topic on Literacy Enrichment Across Countries on the last assignment, now it is your turn to share your findings here.</p><p>Post your result of discussion in ppt format and let your friends ask you some questions about the topic.</p><p>This forum of discussion is belongs to you!</p><p>Be an active student, we will monitor you on this forum.</p><p>Regards,</p><p>IM &amp; TP</p>",
+    "_id": "5f98743aea6f3809a0c2ebd1",
+    "_parentId": "5f9873cdea6f3809a0c2ebd0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "scroll-title scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Articles",
+    "displayTitle": "Articles",
+    "body": "<p>These are some references for you to read.</p><ol><li><a href=\"https://drive.google.com/file/d/1AQfw9p_yBqUlWkBPj7C99rj0qJE0hXIR/view?usp=sharing\" target=\"_blank\">Computer-Assisted Language Learning.</a></li><li><a href=\"https://drive.google.com/file/d/1fBpSeWM43BT0iDOAKQwAxV7S4VBO-GjR/view?usp=sharing\" target=\"_blank\">EPG-booklet_EN.</a></li><li><a href=\"https://drive.google.com/file/d/1chIuGdreFV49LHiO9SgxQ1pX-a3rhpDZ/view?usp=sharing\" target=\"_blank\">Teacher Professional Development : International Perspectives and Approaches.</a></li><li><a href=\"https://drive.google.com/file/d/1jVToH_PPrtkK41t5HHEmOlv8iHLAR4Fg/view?usp=sharing\" target=\"_blank\">Effective Teacher Professional Development REPORT.</a></li><li><a href=\"https://drive.google.com/file/d/1rA5QGb6Pkdy5x0aXr9gjbIfRKSiHUi8x/view?usp=sharing\" target=\"_blank\">Preparing Foreign Language Teachers for Next Generation Education.</a></li></ol>",
+    "_id": "5f987520ea6f3809a0c2ebde",
+    "_parentId": "5f987511ea6f3809a0c2ebdd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Make a paragraph explaining the five data taken from “The Future of Jobs” a report published by World Economic Forum in 2016. This report focuses on the topic of employment, skills, and workforce strategy for the fourth industrial revolution.</p>",
+    "_id": "5f98767eea6f3809a0c2ebeb",
+    "_parentId": "5f987666ea6f3809a0c2ebea",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Hello!",
+    "displayTitle": "Hello!",
+    "body": "<p>For those who got the chance to discuss the topic on Assessment and Teaching of 21st Century Skills, now it is your turn to share your findings here.</p><p>Post your result of discussion in ppt format and let your friends ask you some questions about the topic.</p><p>This forum of discussion is belongs to you!</p><p>Be an active student, we will monitor you on this forum.</p><p>Regards,</p><p>IM &amp; TP</p>",
+    "_id": "5f98774eea6f3809a0c2ebf8",
+    "_parentId": "5f987732ea6f3809a0c2ebf7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LEARNING OBJECTIVES",
+    "displayTitle": "LEARNING OBJECTIVES",
+    "body": "<p>After completing the course, students are expected to develop their:</p>",
+    "_id": "5f9912ce97dd7c27cc673088",
+    "_parentId": "5f9912c397dd7c27cc673087",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>perspectives,</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>critical thinking</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>literacy skills, and</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>communication skills</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>on educational issues and policies across countries.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LEARNING OUTCOMES",
+    "displayTitle": "LEARNING OUTCOMES",
+    "body": "",
+    "_id": "5f99133a97dd7c27cc67308a",
+    "_parentId": "5f99132e97dd7c27cc673089",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "Understand and interpret",
+        "body": "<p>the issues and policies in education.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Link ideas and analyse",
+        "body": "<p>the differences, organizations, and attributes of the issues and policies in education.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Question and evaluate",
+        "body": "<p>(check and critique) the issues and policies in education</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": " Experiment, generate, and plan",
+        "body": "<p>further development in the area reviewed.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MAIN TOPICS",
+    "displayTitle": "MAIN TOPICS",
+    "body": "",
+    "_id": "5f9913ce97dd7c27cc67308e",
+    "_parentId": "5f9913c697dd7c27cc67308d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "Click pin",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/e174d557e83d8f68b7e206425eb838edfdead43d.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "<p>Click label</p>",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "The 21st Century Learning and Skills of Disruptive Innovators",
+        "_ariaLevel": 0,
+        "body": "<ul><li>21st Century Skills.</li><li>Literacy &amp; thinking skills.</li><li>Challenges &amp; Strategies.</li></ul>",
+        "strapline": "The 21st Century Learning and Skills of Disruptive Innovators",
+        "_graphic": {
+          "src": "course/en/assets/c6c54c288368c7227b0b2f894c295dc142dbe6ad.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 10,
+        "_top": 12
+      },
+      {
+        "title": "Current Issues and Policies In Education Across Countries",
+        "_ariaLevel": 0,
+        "body": "<ul><li>Kampus Merdeka, Merdeka Belajar.</li><li>Literacy enrichment across countries.</li><li>Coping with virtual teaching during pandemic.</li></ul>",
+        "strapline": "Current Issues and Policies In Education Across Countries",
+        "_graphic": {
+          "src": "course/en/assets/e307e5edaa4b0b3af3cd13a3cd5c37689f9bfc46.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 29,
+        "_top": 52
+      },
+      {
+        "title": "Prospective English Teachers In Disruptive Era",
+        "_ariaLevel": 0,
+        "body": "<ul><li>Common European Framework of References for Languages (CEFR).</li><li>European Porfiling Grid (EPG).</li><li>Quality of Teacher Education Institutions.</li></ul>",
+        "strapline": "Prospective English Teachers In Disruptive Era",
+        "_graphic": {
+          "src": "course/en/assets/a452e6bbaa0f53efa402156f37a61dc17a24ffdd.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 47,
+        "_top": 12
+      },
+      {
+        "title": "Innovation in Education of the Era of Industrial Revolution Era 4.0 ",
+        "_ariaLevel": 0,
+        "body": "<ul><li>IR 4.0.</li><li>Higher Education in IR 4.0.</li><li>Future Skills for Future Job.</li><li>4C's Skills (Critical thinking, Communication, Collaboration, Creativity).</li></ul>",
+        "strapline": "Innovation in Education of the Era of Industrial Revolusion Era 4.0 ",
+        "_graphic": {
+          "src": "course/en/assets/7d9774a55f8e17075f6e7c6e0fbdbc17195d690f.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 65,
+        "_top": 52
+      },
+      {
+        "title": "Current Issues Published in Reputable Sources",
+        "_ariaLevel": 0,
+        "body": "<ul><li>Indonesian literacy rate.</li><li>Assessment in 21st -Century Education.</li></ul>",
+        "strapline": "Current Issues Published in Reputable Sources",
+        "_graphic": {
+          "src": "course/en/assets/74c95b27bb034e894ed9ec4c7204909e4cb96da4.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 83,
+        "_top": 12
+      }
+    ]
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "ACTIVITIES",
+    "displayTitle": "ACTIVITIES",
+    "body": "",
+    "_id": "5f9915c097dd7c27cc673096",
+    "_parentId": "5f9915bc97dd7c27cc673095",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "inview",
+    "height": 500,
+    "_expandBy": 2,
+    "_items": [
+      {
+        "src": "course/en/assets/4f6dd1fb4b2ad1a5b9713051702af4f1e223c6d2.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Lecture",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/2dc42f96fcc3cf8521cc5568c29b12106664607e.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Individual projects on hot topics selection",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/8d73710af48d75ff2dfe60abce59a2da3d8e8ded.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Group projects on hot topics selection",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/ad0d85add0209849b9088437643768699c5b5173.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Debates",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      }
+    ],
+    "bottomText": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "ASSESSMENT",
+    "displayTitle": "ASSESSMENT",
+    "body": "<ol><li>Presence and class participation.</li><li>Individual projects.</li><li>Group projects.</li></ol><table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><thead><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\"><strong>Score</strong></span></th><th scope=\"col\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\"><strong>Achievement Level</strong></span></th><th scope=\"col\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\"><strong>Grade / Scale</strong></span></th></tr></thead><tbody><tr><th scope=\"row\">A</th><td>86 - 100 %</td><td>4</td></tr><tr><th scope=\"row\">A-</th><td>81 - 85 %</td><td>3,7</td></tr><tr><th scope=\"row\">B+</th><td>76 - 80 %</td><td>3,3</td></tr><tr><th scope=\"row\">B</th><td>71 - 75 %</td><td>3</td></tr><tr><th scope=\"row\">B-</th><td>66 - 70 %</td><td>2,7</td></tr><tr><th scope=\"row\">C+</th><td>61 - 65 %</td><td>2,3</td></tr><tr><th scope=\"row\">C</th><td>56 - 60 %</td><td>2</td></tr><tr><th scope=\"row\">C-</th><td>51 - 55 %</td><td>1,7</td></tr><tr><th scope=\"row\">D</th><td>46 - 50 %</td><td>1</td></tr><tr><th scope=\"row\">E</th><td>0 - 45 %</td><td>0</td></tr></tbody></table>",
+    "_id": "5f99165e97dd7c27cc67309c",
+    "_parentId": "5f99165997dd7c27cc67309b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "COURSE POLICIES",
+    "displayTitle": "COURSE POLICIES",
+    "body": "",
+    "_id": "5f9916fd97dd7c27cc67309e",
+    "_parentId": "5f9916fa97dd7c27cc67309d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Attendance",
+        "body": "<p>Attendance to 80% of the overall number of class meetings (synchronous and asynchronous learning) in the semester is a prerequisite to take the final test and/or to get the final mark. Attendance is not counted as part of the final mark.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Latecomers",
+        "body": "<p>An attendance to a class meeting of synchronous learning is taken 10 minutes after the class starts. More-than-10-minute latecomers are allowed to attend the class but the attendance is not counted.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Missed Exams/Assignments",
+        "body": "<p>Each will score and will be equally counted as part of the average score for the final mark.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Academic Dishonesty",
+        "body": "<ul><li>It is considered a serious crime and seriously taken as an offence to the students’ academic integrity. Therefore, any evidence of plagiarism of any amount will result in a Failed mark.</li><li><p>Students are to obey standard policy and regulations on honesty in academic work and avoid committing plagiarism and cheating in any assigned work.</p></li><li><p>Committing plagiarism in an academic work and/or cheating on an exam&nbsp; will result in a “0” for the work and/or exam.</p></li><li><p>Details on plagiarism may be found at http://www.plagiarism.org.</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Attitude In The Classroom",
+        "body": "<p>Students have to participate actively in the class activities by:</p><ol><li>presenting their best ideas and thoughts coherently,</li><li>using their best English in regard to the pronunciation, word stressing, and intonation, and</li><li>demonstrating socially acceptable manner.</li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "WORKING TOWARD MASTERY",
+    "displayTitle": "WORKING TOWARD MASTERY",
+    "body": "",
+    "_id": "5f9917ad97dd7c27cc6730a1",
+    "_parentId": "5f99177697dd7c27cc67309f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/f74fb8f55ea6f38b1f751ce528e75f9b653e05f5.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/0659bac02c57bcf93c5319d4bd5425daf590a9e0.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": true,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "DOING YOUR BEST WORK",
+    "displayTitle": "DOING YOUR BEST WORK",
+    "body": "",
+    "_id": "5f99181897dd7c27cc6730a5",
+    "_parentId": "5f99181597dd7c27cc6730a4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": " Working from home and/or in the library",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": " Technology requirements",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": " Time management",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": " Keeping 4 Cs (Communication, Critical thinking, Creativity, and Collaboration)",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "REFERENCES",
+    "displayTitle": "REFERENCES",
+    "body": "<ul><li>Bulman, Jenny H. (2017). <em>Children's Reading of Film and Visual Literacy in the Primary Curriculum. A Progression Framework Model</em>. Lincolnshire, UK: Springer International Publishing.</li><li>Christensen, Clayton dan Eyring, Henry, J. (2012). The innovative university: changing the DNA of higher education. <em>Forum for the Future of Higher Education</em>. 47-57</li><li>Dyer, Jeff, Gregerson, Hal, Christensen, Clayton.M. (2011). <em>The innovators’s DNA: mastering the five skills of disruptive innovators</em>. Boston, Mass: Harvard Business Review Press.</li><li>Kementerian Pendidikan dan Kebudayaan. 2020. \"Merdeka Belajar. Episode Kelima. Guru Penggerak\" Jakarta: Kemendikbud.</li><li>Mayuni, Ilza et.al. (2020). School Literacy Movement and Its Implications towards students: A Comparative Case Study in Jakarta and Taiwan. <em>International Journal of Advanced Science and Technology</em>. Vol.29. 2020.</li><li>UNESCO. 2016. <em>Metacognition “How we reflect, learn, and adapt”</em>. Paris: UNESCO.</li><li>OECD. 2011. <em>Building a high quality teaching profession: lessons from around the world.</em></li><li>Gibs, Paul. 2017. <em>Transdisciplinary Higher Education: A Theoretical Basis Revealed in Practice.</em> London: Middlesex University.</li><li>Lombardi, Marilyn M. (2007). Authentic Learning for the 21st-Century: an overview.&nbsp; <em>Educause, Learning Initiative.</em></li><li>Saavedra, Anna R. Dan Opfer, V.D. (2012). <em>Teaching and learning 21st-century skills: lessons from the learning sciences.</em> RAND Corporation.</li><li>UNESCO 2020. <em>Inclusion and Education. All Means All</em>. Paris: UNESCO.</li></ul>",
+    "_id": "5f99188c97dd7c27cc6730a7",
+    "_parentId": "5f99186d97dd7c27cc6730a6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "THANK YOU",
+    "displayTitle": "THANK YOU",
+    "body": "<p>CONTACT INFORMATION</p>",
+    "_id": "5f9918c397dd7c27cc6730a9",
+    "_parentId": "5f9918b097dd7c27cc6730a8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Ilza Mayuni",
+        "body": "<ul><li>ilzamayuni59@gmail.com</li><li>ilza.mayuni@unj.ac.id</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tara Palupi",
+        "body": "<ul><li>tarapalupi@yahoo.com</li><li>taramustikaning@unj.ac.id</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "21st CENTURY EDUCATION",
+    "displayTitle": "21st CENTURY EDUCATION",
+    "body": "<p>Metacognition “How we reflect, learn, and adapt” (UNESCO, 2016)</p>",
+    "_id": "5f991bfc97dd7c27cc6730b8",
+    "_parentId": "5f98592bea6f3809a0c2ebaa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Knowledge",
+        "body": "<blockquote><p>“What we know”</p></blockquote>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Skills",
+        "body": "<blockquote><p>“How we use what&nbsp;we know”</p></blockquote>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Character",
+        "body": "<blockquote><p>“How we engage in the world”</p></blockquote>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FOUNDATIONAL LITERACIES",
+    "displayTitle": "FOUNDATIONAL LITERACIES",
+    "body": "<p>(interdiciplinarity)</p>",
+    "_id": "5f991c5c97dd7c27cc6730ba",
+    "_parentId": "5f991c5797dd7c27cc6730b9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Language</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Numeracy</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Scientific</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>ICT</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Financial</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Cultural &amp; Civic</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "COMPETENCIES",
+    "displayTitle": "COMPETENCIES",
+    "body": "",
+    "_id": "5f991cb497dd7c27cc6730bc",
+    "_parentId": "5f991cad97dd7c27cc6730bb",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Critical thinking/ Problem solving</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Creativity</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Communication</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Collaboration</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Computing</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Cross-cultural Understanding</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Career</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "CHARACTER QUALITIES",
+    "displayTitle": "CHARACTER QUALITIES",
+    "body": "",
+    "_id": "5f991cfb97dd7c27cc6730be",
+    "_parentId": "5f991cf597dd7c27cc6730bd",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Curiosity</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Initiative</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Mindfulness</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Courage</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Resilience</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Ethics</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Leadership</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Social &amp; cultural awareness</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "METACOGNITION GROWTH MINDSET",
+    "displayTitle": "METACOGNITION GROWTH MINDSET",
+    "body": "<p>Standards based (UNESCO, 2016)</p>",
+    "_id": "5f991d6c97dd7c27cc6730c0",
+    "_parentId": "5f991d6297dd7c27cc6730bf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/876f12e6fa1118564ed4cd36216ce8c4d21dbecf.png",
+      "small": "course/en/assets/876f12e6fa1118564ed4cd36216ce8c4d21dbecf.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "STUDIES ON 21st CENTURY SKILLS",
+    "displayTitle": "STUDIES ON 21st CENTURY SKILLS",
+    "body": "<p>World Economic Forum 2016.&nbsp;<em>Future of Work Report</em>, 2016.<br /><em>Deloitte Global Human Capital Report</em>, 2017. Gallup State of the American Workplace 2017.</p>",
+    "_id": "5f991d9c97dd7c27cc6730c4",
+    "_parentId": "5f991d8f97dd7c27cc6730c3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>33% of&nbsp;<strong>core skills</strong>&nbsp;for most jobs by 2020 will include&nbsp;<strong>skills</strong>&nbsp;that aren’t considered important today.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a9c7df37eba6fbe9289afc3e78b63a5abe3476ea.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "STUDIES ON 21st CENTURY SKILLS 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>77% of companies will either retrain people to use technology or redesign jobs to better leverage <strong>“people” skills.</strong></p>",
+        "_graphic": {
+          "src": "course/en/assets/2e163bdf525ff0f6eb2a3a1b2c7fb922f180766f.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "STUDIES ON 21st CENTURY SKILLS 2"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>94% of companies say <strong>agility </strong>and<strong> collaboration</strong> are critical to their success, yet only 6% consider themselves “highly agile” today.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6116938b4ceabe677aa307d7294ab7b02ff2eba3.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "STUDIES ON 21st CENTURY SKILLS 3"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>84% of employees work in networked/ matrixed environments , requiring stronger <strong>relationship </strong>and<strong> self management skills.</strong></p>",
+        "_graphic": {
+          "src": "course/en/assets/ec3411d3423f8187f07cec69cce3bb44a1bb8259.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "STUDIES ON 21st CENTURY SKILLS 4"
+      }
+    ]
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "21st Century learning & Life Skills: Framework",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f991e8097dd7c27cc6730cb",
+    "_parentId": "5f991e4c97dd7c27cc6730ca",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/ixRBjEW_sFs",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text Video",
+    "displayTitle": "",
+    "body": "<p>In this video, 21st century life skills are divided into two components, the first being student outcomes, and the second being support systems for teachers.</p>",
+    "_id": "5f991edb97dd7c27cc6730cd",
+    "_parentId": "5f991ed397dd7c27cc6730cc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Student outcomes are broken down into four different categories. ",
+        "body": "<p>The first category is Key subjects and 21st century themes that cross between disciplines within school curriculum.</p><p>The second part of student outcomes is information, media, and technology along with digital citizenship and student online safety.</p><p>The next category is learning environments, learning skills, and innovation skills.</p><p>And the last section of student outcomes is life and career skills. Career skills are something that educators need to focus on in their classroom.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The Educator and Student Support Systems",
+        "body": "<p>The second component of this is the educator and student support systems. The student support systems is dividing into five parts, the first being 21st century standards, the second being assessments for these life skills and career skills, the next one is curriculum and assessments, which is then followed by professional development, and lastly learning environments.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Tambahan text",
+    "displayTitle": "",
+    "body": "<p>Watch the video!</p><p>When was the video made? Is it still relevant with the current condition?</p><p>What can you conclude?</p><p>How do you see it from Indonesian context?</p>",
+    "_id": "5f991f2597dd7c27cc6730ce",
+    "_parentId": "5f991ed397dd7c27cc6730cc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learning to live together in peace through Global Citizenship Education",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f991f6197dd7c27cc6730d3",
+    "_parentId": "5f991f6197dd7c27cc6730d1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/KuKzq9EDt-0",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text Video",
+    "displayTitle": "",
+    "body": "<p>Watch the video. This video is from the UNESCO on “Learning to live together in peace through Global Citizenship Education” which explains the importance of Global Citizenship Education (GCED) in a globalized and increasingly interconnected and interdependent world. GCED is key to understand the interconnections between the local and the global and nurture a sense of belonging to a common humanity. It builds motivation to assume active roles to contribute to a more just, peaceful, tolerant and sustainable world. The video also illustrates how GCED can be delivered in and outside of schools.</p><p>Answer the following questions.</p>",
+    "_id": "5f991fb097dd7c27cc6730d6",
+    "_parentId": "5f991f6197dd7c27cc6730d2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>What is global citizenship and why is it important?</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>How would you promote global citizenship in your classroom?</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Defining 21st Century Literacy",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f991ff397dd7c27cc6730db",
+    "_parentId": "5f991ff397dd7c27cc6730d9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/byzoDZAdzmU",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Tambahan text",
+    "displayTitle": "",
+    "body": "<p>Watch the video then write down some important things and draw the conclusions from what the speaker said!</p>",
+    "_id": "5f991ff397dd7c27cc6730dd",
+    "_parentId": "5f991ff397dd7c27cc6730da",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LITERACY",
+    "displayTitle": "LITERACY",
+    "body": "",
+    "_id": "5f99246297dd7c27cc6730eb",
+    "_parentId": "5f985960ea6f3809a0c2ebae",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_tabLayout": "horizontal",
+    "_items": [
+      {
+        "tabTitle": "Conventional Concept",
+        "title": "Conventional Concept",
+        "body": "<p>A set of reading, writing and counting skills.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "OECD Global Concept",
+        "title": "OECD Global Concept",
+        "body": "<p>Life skills to access knowledge through technology and ability to assess complex contexts.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "UNESCO Global Concept",
+        "title": "UNESCO Global Concept",
+        "body": "<ul><li>Ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts.</li><li>A key differentiator for successful organizations.</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LITERACY IN 21st CENTURY",
+    "displayTitle": "LITERACY IN 21st CENTURY",
+    "body": "",
+    "_id": "5f9924ac97dd7c27cc6730ed",
+    "_parentId": "5f9924a797dd7c27cc6730ec",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Data</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Media</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Information</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Digital</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Technology</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LITERACY",
+    "displayTitle": "LITERACY",
+    "body": "",
+    "_id": "5f99256697dd7c27cc6730ef",
+    "_parentId": "5f99256397dd7c27cc6730ee",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Ways of thinking",
+        "body": "<ul><li>Problem solving</li><li>Critical thinking</li><li>Decision making</li><li>Creativity</li><li>Learning to learn</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ways of working",
+        "body": "<ul><li>Communication</li><li>Collaboration</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tools for working",
+        "body": "<ul><li>Information</li><li>Communication</li><li>Technology</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ways of life",
+        "body": "<ul><li>Citizenship</li><li>Life &amp; career</li><li>Personal and social responsibility</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "tabs",
+    "_classes": "white-component-solid",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A Digital Literate is able to:",
+    "displayTitle": "",
+    "body": "<p>A Digital Literate is able to:</p>",
+    "_id": "5f9925ce97dd7c27cc6730f2",
+    "_parentId": "5f9925b597dd7c27cc6730f1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_tabLayout": "horizontal",
+    "_items": [
+      {
+        "tabTitle": "POSSESS CRITICAL THINKING SKILLS",
+        "title": "POSSESS CRITICAL THINKING SKILLS",
+        "body": "",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "BE ABLE TO FIND, CAPTURE  ",
+        "title": "BE ABLE TO FIND, CAPTURE  ",
+        "body": "<ul><li>Skills in Using Computer Network</li><li>Knowledge of the Basic Principle of Computing Devices</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "EVALUATE ",
+        "title": "EVALUATE ",
+        "body": "<ul><li>Possess a Range of Digital Skills</li><li>Ability to Engage in Online Communities</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What Is Information Literacy?",
+    "displayTitle": "What Is Information Literacy?",
+    "body": "<p>Information Literacy is ability to know&nbsp; when information is needed. An Information Literate is able to :</p>",
+    "_id": "5f99264c97dd7c27cc6730f4",
+    "_parentId": "5f99264997dd7c27cc6730f3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "inview",
+    "height": 500,
+    "_expandBy": 2,
+    "_items": [
+      {
+        "src": "course/en/assets/5dd0e06e582992da09b42830bb04a773a1afd1ec.png",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "KNOW what info is needed",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/6e3e376e0e3c121f31f97b73c349cc30d6b3db19.png",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "GET information quickly and easily",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/6899c9d55c5c435b203a303a3eb79e991984da8e.png",
+        "alt": "",
+        "_captions": [
+          {
+            "text": " EVALUATE information and sources",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/6c2f32de2bc4d1e66762b620dd8105bd9ecf5f7e.png",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "SHOW information ethically and legally",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      }
+    ],
+    "bottomText": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MEDIA AND MEDIA LITERACY",
+    "displayTitle": "MEDIA AND MEDIA LITERACY",
+    "body": "",
+    "_id": "5f9926ce97dd7c27cc6730fa",
+    "_parentId": "5f9926cc97dd7c27cc6730f9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What is media?",
+        "body": "<p>Media is the main means of Mass Communication</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What is media literacy?",
+        "body": "<ul><li>The Ability to use media accordingly to its function</li><li>help us control media in a literate mindset</li><li>enable young people in particular to become more careful consumers of media</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A Media Literate is able to:",
+    "displayTitle": "",
+    "body": "<p>A Media Literate is able to :</p>",
+    "_id": "5f99270b97dd7c27cc6730fc",
+    "_parentId": "5f99270397dd7c27cc6730fb",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p><strong>Understand</strong> the basic convention of media,</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>evaluate</strong> and<strong> analyze</strong> media, and</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>create </strong>media.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MEDIA AND INFORMATION SIMILARITIES",
+    "displayTitle": "MEDIA AND INFORMATION SIMILARITIES",
+    "body": "",
+    "_id": "5f99275b97dd7c27cc6730fe",
+    "_parentId": "5f99275797dd7c27cc6730fd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "Click image",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/7fda5794591ea30a2bb56554df533cca1c93b0f9.png"
+        },
+        "backTitle": "",
+        "backBody": "<p>Both can <strong>relay data</strong> to different people in different places in <strong>a short span of time.</strong></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/da9aad1d09994cffc121079a0f5b563382f96dc7.png"
+        },
+        "backTitle": "",
+        "backBody": "<p>Both are parts of the process of reproducing<br />data information.</p>"
+      }
+    ]
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "TECHNOLOGY-DIGITAL, INFORMATION, AND MEDIA LITERACY",
+    "displayTitle": "TECHNOLOGY-DIGITAL, INFORMATION, AND MEDIA LITERACY",
+    "body": "",
+    "_id": "5f9927b597dd7c27cc673102",
+    "_parentId": "5f9927ac97dd7c27cc673101",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_tabLayout": "vertical",
+    "_items": [
+      {
+        "tabTitle": "digital & technology",
+        "title": "digital & technology",
+        "body": "<p>analyze and&nbsp;evaluate</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "information",
+        "title": "information",
+        "body": "<p>serves as the tools for displaying media.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "DATA LITERACY",
+    "displayTitle": "DATA LITERACY",
+    "body": "<p>Data Literacy&nbsp;is ability to:</p>",
+    "_id": "5f9927fa97dd7c27cc673104",
+    "_parentId": "5f9927f597dd7c27cc673103",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>read, analyze, work with, and argue with data;</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>derive meaningful information from data;</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>communicate, write, and read about data in context;</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>demonstrate data; and</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>use data effectively, responsibly, and ethically.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LITERACY AND LEARNING",
+    "displayTitle": "LITERACY AND LEARNING",
+    "body": "<p><strong>Language</strong> is the predominant form of <strong>literacy </strong>that <strong>shapes the way you think and determines what you can think about.</strong> <strong>Literacy is a life skill</strong> that empowers individuals to <strong>learn independently</strong>. Improving literacy and learning can have an <strong>impact on students’ self-esteem, motivation and behaviour.</strong></p>",
+    "_id": "5f99286f97dd7c27cc673106",
+    "_parentId": "5f99286a97dd7c27cc673105",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Literacy",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f99289997dd7c27cc673108",
+    "_parentId": "5f99289597dd7c27cc673107",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Indonesian adult with tertiary education has lower literacy proficiency than typical Greek or Dane with lower secondary literacy and other OECD country with upper secondary schooling. (OECD PIAAC, 2016)</p>",
+        "_graphic": {
+          "src": "course/en/assets/cc9ab6f7bfb62b8839a74d8574d5281a39443193.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Literacy 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Many Indonesians are taught&nbsp; to <strong>think together </strong>and<strong> repeat the consensus</strong> rather than <strong>think individually </strong>and <strong>critically.</strong></p>",
+        "_graphic": {
+          "src": "course/en/assets/8fe25e284ccae99f5b239c4234028e73a7cdda2a.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Literacy 2"
+      }
+    ]
+  },
+  {
+    "_component": "expose",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "THINKING SKILLS",
+    "displayTitle": "THINKING SKILLS",
+    "body": "<ul><li>as a representational system in human thinking</li><li>result in different degrees of success</li><li>involves emotions</li></ul>",
+    "_id": "5f9928ec97dd7c27cc67310c",
+    "_parentId": "5f9928e797dd7c27cc67310b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_columns": 5,
+    "_animationType": "slideDown",
+    "_items": [
+      {
+        "front": "?",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "Reasoning",
+          "body": "",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "?",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "Concept",
+          "body": "",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "?",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "Problem solving",
+          "body": "",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "?",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "Intuiting",
+          "body": "",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "?",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "Anticipating the future",
+          "body": "",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "small-hotgraphic",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "HIGHER ORDER THINKING (BLOOM'S REVISED TAXONOMY)",
+    "displayTitle": "HIGHER ORDER THINKING (BLOOM'S REVISED TAXONOMY)",
+    "body": "",
+    "_id": "5f99299297dd7c27cc67310f",
+    "_parentId": "5f99295a97dd7c27cc67310d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/3e784c30d6def13a369eae774e97b5b0302fbd4b.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Remember",
+        "_ariaLevel": 0,
+        "body": "<p>Where?</p><p>When?</p><p>Who?</p><p>What?</p>",
+        "strapline": "Remember",
+        "_graphic": {
+          "src": "course/en/assets/cb48827fb64c8d096d31c2b4df9ab2046f834c9d.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 24,
+        "_top": 75
+      },
+      {
+        "title": "Understand",
+        "_ariaLevel": 0,
+        "body": "<p>Why?</p><p>How?</p>",
+        "strapline": "Understand",
+        "_graphic": {
+          "src": "course/en/assets/c4b7c4221bbe6d224eaebd8bd2ddcc399e5575ac.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 24,
+        "_top": 63
+      },
+      {
+        "title": "Apply",
+        "_ariaLevel": 0,
+        "body": "<p>How is it used?</p><p>How does it work?</p>",
+        "strapline": "Apply",
+        "_graphic": {
+          "src": "course/en/assets/9ade69b7c695b7d08e6461733f55b8d4e6bf2727.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 24,
+        "_top": 51
+      },
+      {
+        "title": "Analyze",
+        "_ariaLevel": 0,
+        "body": "<p>What is the cause?</p><p>What is the reason?</p><p>Why is it used?</p><p>Why does it work?</p><p>What does it infer?</p><p>What does it suggest?</p>",
+        "strapline": "Analyze",
+        "_graphic": {
+          "src": "course/en/assets/d9bb22d6d53f50050e50d10fba3971c9fa8a368a.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 24,
+        "_top": 39
+      },
+      {
+        "title": "Evaluate",
+        "_ariaLevel": 0,
+        "body": "<p>What is the effect?</p><p>What is the impact?</p><p>What is the result?</p><p>What if?</p><p>What would happen?</p><p>What could happen?</p>",
+        "strapline": "Evaluate",
+        "_graphic": {
+          "src": "course/en/assets/c976fc93df7108d278aeb70ae98ebf3e5518fd2c.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 24,
+        "_top": 27
+      },
+      {
+        "title": "Create",
+        "_ariaLevel": 0,
+        "body": "<p>What can you design?</p><p>How would you develop?</p><p>What can you plan?</p><p>What could you produce?</p><p>How can you innovate?</p><p>What can you invert?</p>",
+        "strapline": "Create",
+        "_graphic": {
+          "src": "course/en/assets/8e06dfb7c85a60327dc14455dde9c767db3a05e1.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 24,
+        "_top": 15
+      }
+    ]
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "UNESCO International Literacy Day 2018 – Literacy and skills development",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f992b0f97dd7c27cc673119",
+    "_parentId": "5f992aa197dd7c27cc673118",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/Vu5o5Ruh6is",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "International Literacy Day 2019 - Literacy and multilingualism",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f992b8c97dd7c27cc67311c",
+    "_parentId": "5f992b8c97dd7c27cc67311b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/1QG9-CW4SNU",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "International Literacy Day 2020 – Teaching and learning literacy in the COVID-19 crisis and beyond",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f992bad97dd7c27cc67311f",
+    "_parentId": "5f992bad97dd7c27cc67311e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/LZaqM69M7RM",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Take notes on each videos.</span></p><p><span style=\"color:#feffff\">What can you suggest to reflect on and discuss how innovative and effective pedagogic and teaching methodologies can be used in youth and adult literacy programms to face the pandemic and beyond?</span></p>",
+    "_id": "5f992be097dd7c27cc673121",
+    "_parentId": "5f992bdc97dd7c27cc673120",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How does PISA work?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f992c2a97dd7c27cc673128",
+    "_parentId": "5f992c2a97dd7c27cc673124",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/i4RGqzaNEtg",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Apa itu PISA?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f992c2a97dd7c27cc673129",
+    "_parentId": "5f992c2a97dd7c27cc673125",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/F4F4GtNUkUg",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Many Indonesians are taught to think together and repeat the consensus rather than think individually and critically. What are your opinions regarding this matter and the results of PISA survey released on 2018?</p><p><a href=\"https://drive.google.com/file/d/1UwmNl3x97j7_QLau5BV-tBI6Rjomej5V/view?usp=sharing\" target=\"_blank\">Click&nbsp;this link to see the survey</a></p><p>Share your opinion below!</p>",
+    "_id": "5f992c2a97dd7c27cc67312b",
+    "_parentId": "5f992c2a97dd7c27cc673127",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "list",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "TEACHER'S CHALLENGES",
+    "displayTitle": "TEACHER'S CHALLENGES",
+    "body": "<p>Preparing students to become literate and independent learners&nbsp;who are able to:&nbsp;&nbsp;</p>",
+    "_id": "5f99337997dd7c27cc673138",
+    "_parentId": "5f9872f5ea6f3809a0c2ebca",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": " access information efficiently and effectively",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "evaluate information critically and competently",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "use information accurately and creatively",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "pursue information related to personal interests",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "appreciate literature and other creative expressions",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "strive for excellence",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "expose",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FINAL REMARKS",
+    "displayTitle": "FINAL REMARKS",
+    "body": "",
+    "_id": "5f99352b97dd7c27cc673143",
+    "_parentId": "5f99352697dd7c27cc673142",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_columns": 4,
+    "_animationType": "slideUp",
+    "_items": [
+      {
+        "front": "1",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>21st Century skills empower students to learn independently.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "2",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>Literacy is&nbsp;<strong>best taught</strong>&nbsp;as part of the subject.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "3",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>Good literacy skills are a key factor in<strong>&nbsp;raising standards</strong>&nbsp;across all subjects.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "4",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>Improving literacy and learning can have an&nbsp;<strong>impact on pupils’ self-esteem</strong>, motivation and behaviour.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "5",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>Literacy development should start&nbsp; from early childhood care and quality basic education for all children.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "6",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>School and parents need to scale-up functional literacy levels for youth and adults who lack basic literacy skills.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "7",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>Literate environments should be developed from home, schools, and communities.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "5 tips to improve your critical thinking - Samantha Agoos",
+    "displayTitle": "",
+    "body": "<p>Watch the&nbsp;video below!</p>",
+    "_id": "5f99361b97dd7c27cc673147",
+    "_parentId": "5f9935d597dd7c27cc673145",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/dItUGF8GdTw",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Answer the following questions!</p><ol><li>What is the purpose of the video?</li><li>Who is the intended audience?</li><li>What is it about? Does it make sense? What are the main messages? Do you agree?</li><li>How does this text make you feel? Why?</li><li>What have you learnt as a result of watching this video?</li></ol>",
+    "_id": "5f99367097dd7c27cc673149",
+    "_parentId": "5f99364397dd7c27cc673148",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why change? 21st Century Learning and Curriculum Innovation",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Watch the video below and answer the following questions!</span></p>",
+    "_id": "5f99369e97dd7c27cc67314c",
+    "_parentId": "5f99369e97dd7c27cc67314b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/0IZyxbP8szo",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<ol><li>What does the video mean to you?</li><li>Does the video remind you of something? What are they?</li><li>What message is the video presenting?</li><li>What are the main ideas?</li><li>What did youI feel as you watch the video? Relate that to your role as prospective English teacher.</li></ol>",
+    "_id": "5f9936fa97dd7c27cc67314f",
+    "_parentId": "5f9936fa97dd7c27cc67314e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How do teachers innovate their practice for the 21st century?",
+    "displayTitle": "",
+    "body": "<p>Watch the video on The OECD Teaching and Learning International Survey (TALIS) which asked teachers and school leaders from 48 countries and economies about their views on innovative teaching practices for the modern world.</p>",
+    "_id": "5f99373897dd7c27cc673155",
+    "_parentId": "5f99373897dd7c27cc673154",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/2rH191iZKiE",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Answer the following questions:</p><ol><li>Who do you think are the intended audiences?</li><li>What is the video about? Does it make sense?</li><li>What are the main messages? Do you agree/disagree? Why?</li><li>How does the video make you feel?</li><li>What have you learnt as a result of watching the video?</li></ol>",
+    "_id": "5f99375097dd7c27cc673158",
+    "_parentId": "5f99375097dd7c27cc673157",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "STUDENT STRATEGIES",
+    "displayTitle": "STUDENT STRATEGIES",
+    "body": "",
+    "_id": "5f9947ebcd23082f2c576b53",
+    "_parentId": "5f99340b97dd7c27cc673139",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "1",
+        "body": "<p>Learn thinking skills through real-world contexts.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2",
+        "body": "<p>Use a newly learned skill in various contexts.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3",
+        "body": "<p>Emphasize the building blocks of higher-order thinking by:</p><ul><li>building background knowledge,</li><li>classifying things in categories,</li><li>arranging items along dimensions,</li><li>making hypotheses,</li><li>drawing inferences,</li><li>analyzing things into their components, and</li><li>solving problems.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "4",
+        "body": "<p><strong>Develop your capacity</strong>&nbsp;through speaking and listening, visualizing and observing, and reading and writing.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "5",
+        "body": "<p><strong>Learn&nbsp;</strong>from your experiences.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "6",
+        "body": "<p>Learn to&nbsp;<strong>analyze, evaluate, and produce</strong>&nbsp;texts across various modes of language.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "7",
+        "body": "<p>Develop&nbsp;<strong>multiple literacies</strong>&nbsp; through teamwork and problem solving activities.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Kenapa Merdeka Belajar?",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Let's have a look on the video of our Ministry of Education on Indonesia Millenial Summit 2020.</span></p>",
+    "_id": "5f994e8bcd23082f2c576b55",
+    "_parentId": "5f994e77cd23082f2c576b54",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/_rwkDlMedpc",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question",
+    "displayTitle": "",
+    "body": "<p>Question</p><ol><li>What do you think about the video?</li><li>What does Mas Nadiem Makarim say about MBKM in the video?</li><li>What have you learnt as a result of watching the video?</li></ol><p>&nbsp;</p><p>Use this as a reference :</p>",
+    "_id": "5f99502ccd23082f2c576b5a",
+    "_parentId": "5f994f8bcd23082f2c576b56",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "Buku Saku Panduan Merdeka Belajara, Kampus Merdeka Edisi 1 (2020)",
+        "body": "<p><a href=\"https://drive.google.com/file/d/1n810g56TdfxLcNQWJRS-Vjj3mY_dSGUw/view?usp=sharing\" target=\"_blank\">Click here</a></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Buku Panduan Merdeka Belajar Kampus Merdeka 2020",
+        "body": "<p><a href=\"https://drive.google.com/file/d/10Wawj0IFRcNbPTiFXQFzeLUeoAe2QxrH/view?usp=sharing\" target=\"_blank\">Click here</a></p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Delapan Bulan Kinerja Kemendikbud",
+    "displayTitle": "",
+    "body": "<p>Watch the video below on the eight-months performances of Kemdikbud.</p>",
+    "_id": "5f99533fcd23082f2c576b5d",
+    "_parentId": "5f99533fcd23082f2c576b5c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/8Y1pXJHMoDU",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question",
+    "displayTitle": "",
+    "body": "<p>Answer the following questions!</p><ol><li>What does Kemdikbud say about its performance?</li><li>What connections can you make after watching the video? Reflect based on your own experiences!</li><li>What do you think about the video? Explain!</li><li>Make a summary based on the video!</li></ol>",
+    "_id": "5f99538fcd23082f2c576b61",
+    "_parentId": "5f995344cd23082f2c576b5f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "91-year-old professor's virtual teaching goes viral during pandemic",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Write your opinion after watching the following video. How did the video affect you? Tell us.</span></p>",
+    "_id": "5f9959c1cd23082f2c576b6d",
+    "_parentId": "5f987370ea6f3809a0c2ebcd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/3JNobChHfkI",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Coronavirus: Indonesian students swap plastic trash for Wi-fi access to study online",
+    "displayTitle": "",
+    "body": "<p>Watch the video.</p>",
+    "_id": "5f995a50cd23082f2c576b70",
+    "_parentId": "5f995a36cd23082f2c576b6e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/Uz4ZdwpcMHg",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Has the video changed your mind about something? Explain!</p>",
+    "_id": "5f995a8acd23082f2c576b72",
+    "_parentId": "5f995a85cd23082f2c576b71",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Indonesian teacher brings class to offline village students amid pandemic curbs",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f995af7cd23082f2c576b78",
+    "_parentId": "5f995af7cd23082f2c576b75",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/BgpMAp1OqzM",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Indonesian teachers struggle with distance learning",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f995af7cd23082f2c576b79",
+    "_parentId": "5f995af7cd23082f2c576b76",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/CRTdBZW8hq8",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Write a reflection after you watch the videos. You can start writing a reflection by choosing one of the questions below.</p><ul><li>How did the videos affect you?</li><li>Has the video left you with any questions?</li><li>Were there any unaddressed critical issues that didn’t appear in the video?</li></ul>",
+    "_id": "5f995af7cd23082f2c576b7a",
+    "_parentId": "5f995af7cd23082f2c576b77",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Kebijakan Asesmen Nasional",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f9960cbcd23082f2c576b81",
+    "_parentId": "5f98744fea6f3809a0c2ebd5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/3xOFTaBXRno",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Watch the video and read the following articles talking about national assessment recently launched by Kemdikbud.</p>",
+    "_id": "5f99637bcd23082f2c576b84",
+    "_parentId": "5f996123cd23082f2c576b82",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Articles",
+        "body": "<p>Click articles.</p><ol><li><a href=\"https://drive.google.com/file/d/1IYJ92yQ_nqivG-EArWpEOH59FyzDEcXn/view?usp=sharing\" target=\"_blank\">Asesmen Nasional</a>.</li><li><p><a href=\"https://www.kemdikbud.go.id/main/blog/2020/10/asesmen-nasional-sebagai-penanda-perubahan-paradigma-evaluasi-pendidikan\" target=\"_blank\">Asesmen Nasional sebagai Penanda Perubahan Paradigma Evaluasi Pendidikan.</a></p></li><li><p><a href=\"https://edukasi.kompas.com/read/2020/10/08/095454871/penjelasan-mendikbud-terkait-3-aspek-asesmen-nasional-pengganti-un-2021?page=all\" target=\"_blank\">Penjelasan Mendikbud Terkait 3 Aspek Asesmen Nasional Pengganti UN 2021.</a></p></li><li><p><a href=\"https://www.kompas.com/edu/read/2020/10/13/101459171/asesmen-nasional-pengganti-un-kemendikbud-tidak-semua-siswa-ikut?page=all\">Asesmen Nasional Pengganti UN, Kemendikbud : Tidak Semua Siswa Ikut</a>.</p></li><li><p><a href=\"https://www.kompas.com/edu/read/2020/10/17/130436471/seperti-ini-alokasi-waktu-asesmen-nasional-an-2021?page=all\" target=\"_blank\">Seperti Ini Alokasi Waktu Asesmen Nasional (AN) 2021</a>.</p></li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Assignment",
+        "body": "<p>Criticized of the policy launched by Kemdikbud from any point of view (students, teachers, schools, principals, parents, etc). You may add more sources for analyzing the data and follow the following steps:</p><ol><li>Discuss the strengths and weaknesses of the article that you noted while critically reading the article.</li><li>State your informed opinions about the clarity, relevancy, and accuracy of the article, using specific examples from the article to support your statements.</li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is the CEFR?",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Watch the video on CEFR. You may take notes on some important points.</span></p>",
+    "_id": "5f996e69cd23082f2c576b8d",
+    "_parentId": "5f9865a3ea6f3809a0c2ebbc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/UAehOcVfr3Y",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Persiapan dan Pengembangan Guru",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Watch the following video before you proceed to the next course! You may take notes on some important points.</span></p>",
+    "_id": "5f996f23cd23082f2c576b8e",
+    "_parentId": "5f9874d6ea6f3809a0c2ebd9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/IR92672FKUE",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What are the most effective professional development activities for teachers and school leaders?",
+    "displayTitle": "",
+    "body": "<p>Watch the following video and present your opinion toward the most effective professional development activities for teachers and schools.</p>",
+    "_id": "5f996fdccd23082f2c576b96",
+    "_parentId": "5f996fe9cd23082f2c576b97",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/c4oYHLFMfGA",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>These are some references for you to read.</p><ol><li><a href=\"https://drive.google.com/file/d/1chIuGdreFV49LHiO9SgxQ1pX-a3rhpDZ/view?usp=sharing\" target=\"_blank\">Teacher Professional Development : International Perspectives and Approaches.</a></li><li><a href=\"https://drive.google.com/file/d/1jVToH_PPrtkK41t5HHEmOlv8iHLAR4Fg/view?usp=sharing\" target=\"_blank\">Effective Teacher Professional Development REPORT.</a></li><li><a href=\"https://drive.google.com/file/d/1rA5QGb6Pkdy5x0aXr9gjbIfRKSiHUi8x/view?usp=sharing\" target=\"_blank\">Preparing Foreign Language Teachers for Next Generation Education.</a></li></ol><p>Were there any unaddressed critical issues that didn’t appear in the article?</p>",
+    "_id": "5f997058cd23082f2c576b99",
+    "_parentId": "5f99704ecd23082f2c576b98",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Assignment",
+    "displayTitle": "Assignment",
+    "body": "<p>Find an article (journal, video, publication, etc) discussing on the current state of our country's quality of teacher education institution.</p><p>Share your finding in ppt format.</p>",
+    "_id": "5f997612cd23082f2c576b9d",
+    "_parentId": "5f997609cd23082f2c576b9c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is the Fourth Industrial Revolution? | CNBC Explains",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Watch the video to get your understanding about IR 4.0</span></p>",
+    "_id": "5f998611cd23082f2c576ba3",
+    "_parentId": "5f9875f5ea6f3809a0c2ebe2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/v9rZOa3CUC8",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Take notes on some important points from the video. Submit your work below.</p>",
+    "_id": "5f9986e8cd23082f2c576ba5",
+    "_parentId": "5f9986e3cd23082f2c576ba4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Education 4.0 – transforming the future of education (through advanced technology)",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Let's have a look on the insight of education 4.0 future education through advanced technology.</span></p>",
+    "_id": "5f998b84cd23082f2c576ba8",
+    "_parentId": "5f987641ea6f3809a0c2ebe6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/aVWHp8FsV1w",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "2.33",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Take notes on some important part from the video.</p><p>Answer the following questions!</p><ol><li>Why is this a challenge?</li><li>Is the video relevant to you?</li><li>Why is there a need for this today?</li><li>How this video benefit you, especially as future educators?</li><li>How do you see yourself in the future?</li></ol>",
+    "_id": "5f998ca7cd23082f2c576baa",
+    "_parentId": "5f998ca2cd23082f2c576ba9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image 1",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f99902bcd23082f2c576bb1",
+    "_parentId": "5f999026cd23082f2c576bb0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a772502341350816c0863555968522a3f247fe57.png",
+      "small": "course/en/assets/a772502341350816c0863555968522a3f247fe57.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image 2",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f99921fcd23082f2c576bba",
+    "_parentId": "5f999217cd23082f2c576bb9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/56d66d2915f14685adaef5b8203e1d61f14294c6.png",
+      "small": "course/en/assets/56d66d2915f14685adaef5b8203e1d61f14294c6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image 3",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f999237cd23082f2c576bbe",
+    "_parentId": "5f999233cd23082f2c576bbd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/531e931963979fefda747d7296fd598e43fa4141.png",
+      "small": "course/en/assets/531e931963979fefda747d7296fd598e43fa4141.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image 4",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f99924fcd23082f2c576bc2",
+    "_parentId": "5f99924acd23082f2c576bc1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6ded20f2fb407f95da6361d26a150513ff92199e.png",
+      "small": "course/en/assets/6ded20f2fb407f95da6361d26a150513ff92199e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Image 5",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f999268cd23082f2c576bc6",
+    "_parentId": "5f999264cd23082f2c576bc5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/33095f355f2a6a140efcd7ec2940547523594a97.png",
+      "small": "course/en/assets/33095f355f2a6a140efcd7ec2940547523594a97.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "article",
+    "displayTitle": "",
+    "body": "<p>Read the article below where digital connectivity and online learning can expand opportunities for young people around the world.</p><p><a href=\"https://www.weforum.org/agenda/2020/07/reimagining-future-skills-what-we-learned-young-people/\" target=\"_blank\">Reimagining the future of skills: what do young people think?</a></p><p>Make a brief summary from the article.</p><p>Answer the following questions:</p><ol><li>Does the article relate to anything from your past reading experiences?</li><li>Does the article agree with any of your past reading experiences?</li></ol>",
+    "_id": "5f9992b7cd23082f2c576bcb",
+    "_parentId": "5f9992b2cd23082f2c576bca",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What are the 4Cs?",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Let's watch the explanation on 4Cs. Take notes on some important point before you proceed to watch the next video.</span></p>",
+    "_id": "5f9999a0cd23082f2c576bd1",
+    "_parentId": "5f987683ea6f3809a0c2ebee",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/QrEEVZa3f98",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Singapore's 21st-Century Teaching Strategies (Education Everywhere Series)",
+    "displayTitle": "",
+    "body": "<p>Let's watch the video below taken in 2012 where Singapore has already set up the use of technology, digital media and 21st century skills.</p>",
+    "_id": "5f999a14cd23082f2c576bd5",
+    "_parentId": "5f999a13cd23082f2c576bd4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/M_pIK7ghGw4",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Answer the following questions!</p><ol><li>What have you learnt as a result of watching the video? What questions do you have?</li><li>What do you think about the video? You may reflect to our current educational issues happen to our country</li></ol>",
+    "_id": "5f999a63cd23082f2c576bd7",
+    "_parentId": "5f999a5ccd23082f2c576bd6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "International Literacy Day 2020 – Teaching and learning literacy in the COVID-19 crisis and beyond",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#feffff\">Before we focus on Indonesian Literacy Rate, let's have a look on the International Literacy Day 2020 which focus on Literacy teaching and learning in the COVID-19 crisis and beyond with a focus on the role of educators and changing pedagogic. Since 1967, International Literacy Day (ILD) celebrations have occurred every year around the globe to help people in general to remember the significance of education as an issue of nobility and basic freedoms, and to propel the literacy plan towards a more proficient and literate society.</span></p>",
+    "_id": "5f999c1fcd23082f2c576bdb",
+    "_parentId": "5f987718ea6f3809a0c2ebf3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/LZaqM69M7RM",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>You may take notes on some important points.</p>",
+    "_id": "5f999c7acd23082f2c576bdd",
+    "_parentId": "5f999c75cd23082f2c576bdc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Read the journal article published by International Journal of Advanced Science and Technology Vol. 29, No. 4s, (2020), pp. 1555-1569 by Prof. Dr. Ilza Mayuni et.al.</p><p><a href=\"https://drive.google.com/file/d/1RQE78_tbaoSUfVabv_hWhpb7R5grZnaK/view?usp=sharing\" target=\"_blank\">School Literacy Movement and Its Implications towards Students Learning: A Comparative Case Study in Jakarta and Taiwan.</a></p><p>&nbsp;</p><p>Take notes and highlight on some important point.</p><p>Submit your work and you will receive feedback after your submission.</p>",
+    "_id": "5f999ccccd23082f2c576bdf",
+    "_parentId": "5f999cc7cd23082f2c576bde",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "5f999e5dcd23082f2c576be6",
+    "_parentId": "5f999e54cd23082f2c576be5",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    }
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Outline",
+    "displayTitle": "Outline",
+    "body": "",
+    "_id": "5f99b4c9cd23082f2c576bf2",
+    "_parentId": "5f996a3ecd23082f2c576b8b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "Current Issues in Education in 4IR",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Challenges we face in preparing prospective English teachers",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Proposed strategies to meet the needs of students in the job market",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "expose",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Challenges: ICT Development Index",
+    "displayTitle": "Challenges: ICT Development Index",
+    "body": "<p>International Telecommunication Union (2018)</p>",
+    "_id": "5f99b6d3cd23082f2c576bfa",
+    "_parentId": "5f99b6afcd23082f2c576bf9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [
+        {
+          "title": "IDI",
+          "body": "readiness, use (intensity) and impact."
+        }
+      ],
+      "_isNotifyPopup": true
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_columns": 5,
+    "_animationType": "slideUp",
+    "_items": [
+      {
+        "front": "Singapore",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p style=\"text-align: center;\"><strong>19</strong></p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "Malaysia",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p style=\"text-align: center;\"><strong>64</strong></p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "Indonesia",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p style=\"text-align: center;\"><strong>108</strong></p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "Vietnam",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p style=\"text-align: center;\"><strong>102</strong></p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "Thailand",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p style=\"text-align: center;\"><strong>74</strong></p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Most Critical 21st Century Skills",
+    "displayTitle": "The Most Critical 21st Century Skills",
+    "body": "",
+    "_id": "5f99ba6ecd23082f2c576c01",
+    "_parentId": "5f99ba5acd23082f2c576c00",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_tabLayout": "horizontal",
+    "_items": [
+      {
+        "tabTitle": "Foundational literacies",
+        "title": "Foundational literacies (interdiciplinarity)",
+        "body": "<ul><li>Language</li><li>Numeracy</li><li>Science</li><li>ICT</li><li>Finance</li><li>Cultural &amp; Civics</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Competencies",
+        "title": "Competencies",
+        "body": "<ul><li>Critical thinking/ Problem solving</li><li>Creativity</li><li>Communication</li><li>Collaboration</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Character qualities",
+        "title": "Character qualities",
+        "body": "<ul><li>Curiosity</li><li>Initiative</li><li>Mindfulness</li><li>Courage</li><li>Resilience</li><li>Ethics</li><li>Leadership</li><li>Social &amp; culutral awareness</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Challenge in Job Market",
+    "displayTitle": "Challenge in Job Market",
+    "body": "",
+    "_id": "5f99bd71cd23082f2c576c03",
+    "_parentId": "5f99bb07cd23082f2c576c02",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/beed21e00a3437dda83ce02415d7920371408028.png",
+      "small": "course/en/assets/beed21e00a3437dda83ce02415d7920371408028.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Shifting Paradigm in EFL Teaching ",
+    "displayTitle": "Shifting Paradigm in EFL Teaching ",
+    "body": "",
+    "_id": "5f99be21cd23082f2c576c08",
+    "_parentId": "5f99be08cd23082f2c576c07",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "height": 500,
+    "_expandBy": 2,
+    "_items": [
+      {
+        "src": "course/en/assets/4f6dd1fb4b2ad1a5b9713051702af4f1e223c6d2.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Conventional interaction",
+            "top": "",
+            "left": "",
+            "width": "100%"
+          },
+          {
+            "text": "Teacher stands in front of the class.",
+            "top": "5%",
+            "left": "10%",
+            "width": "50%"
+          },
+          {
+            "text": "Language & Teaching Skills",
+            "top": "8%",
+            "left": "",
+            "width": "50%"
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/c5e9080404256c6947c30d8c6a5e6138a73e4508.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Blended learning",
+            "top": "",
+            "left": "",
+            "width": "100%"
+          },
+          {
+            "text": "Internet may take over most of teacher’s responsibility.",
+            "top": "5%",
+            "left": "10%",
+            "width": "50%"
+          },
+          {
+            "text": "Digital Literacy",
+            "top": "8%",
+            "left": "",
+            "width": "50%"
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/7d2c55c5756b1e70059682029a7bdc66b86ce486.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Personalized, independent, lifelong  learner",
+            "top": "",
+            "left": "",
+            "width": "100%"
+          },
+          {
+            "text": "Student has self-determination  to learn what, how, where, and when they want to learn.",
+            "top": "5%",
+            "left": "10%",
+            "width": "50%"
+          },
+          {
+            "text": "Character & Social Skills",
+            "top": "8%",
+            "left": "",
+            "width": "50%"
+          }
+        ]
+      }
+    ],
+    "bottomText": ""
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Trends in Education of 4IR",
+    "displayTitle": " Trends in Education of 4IR",
+    "body": "<p>(Gibson, Ostashewski, Flintoff, Grant, &amp; Knight, 2015; Fisk, 2017)</p>",
+    "_id": "5f99c277cd23082f2c576c0d",
+    "_parentId": "5f99c272cd23082f2c576c0c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 3,
+    "_items": [
+      {
+        "title": "Learning will be personalized to individual students.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Hands-on learning through field experience.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Learning can be taken place anytime and anywhere.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Students are exposed to data interpretation and allowed to use their reasoning skills.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Students’ opinion will be considered in designing and updating the curriculum.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Students will be exposed to more project-based learning.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Students will be assessed differently (no more conventional platforms).",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Students pursue different  routes to achieve the same skills.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Micro-Credentials?",
+    "displayTitle": "",
+    "body": "<p>It is a competency-based digital form of certification to recognize student’s skills, achievements and accomplishments of a specific skill and/or sub-skills. This can be obtained from formal and/or informal learning experiences.</p>",
+    "_id": "5f99c423cd23082f2c576c10",
+    "_parentId": "5f99c3c8cd23082f2c576c0e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Micro-Credentials?",
+    "displayTitle": "",
+    "body": "<p>Micro-credentials can be issued by internal and/or external institutions to improve professional practice that supports student’s success when they enter workplace when they graduate.</p>",
+    "_id": "5f99c46ecd23082f2c576c12",
+    "_parentId": "5f99c3c8cd23082f2c576c0e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "expose",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Policy and Strategies for New Direction",
+    "displayTitle": "Policy and Strategies for New Direction",
+    "body": "",
+    "_id": "5f99c576cd23082f2c576c14",
+    "_parentId": "5f99c50bcd23082f2c576c13",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_columns": 2,
+    "_animationType": "slideDown",
+    "_items": [
+      {
+        "front": "1",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>First, there should be a clear map of (sub) competences/skills the prospective teachers need to master for a teaching position.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "2",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>Then clear criteria and mechanism for submitting&nbsp; evidence, scaling, receiving digital badges, and any other mechanism.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "3",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>There should be a committee who work not only to approve but also continuously update the development in the workplace so that they can give feedback for quality improvement of the SKPI policy.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      },
+      {
+        "front": "4",
+        "_front_graphic": {
+          "src": ""
+        },
+        "back": {
+          "title": "",
+          "body": "<p>Another most important strategy is to establish an alignment with institutions for recognition.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          },
+          "audio": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Policy & Document",
+    "displayTitle": "Policy & Document",
+    "body": "",
+    "_id": "5f99c67fcd23082f2c576c16",
+    "_parentId": "5f99c5eacd23082f2c576c15",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": true,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Allignment",
+        "body": "<ul><li>students’ needs</li><li>curriculum</li><li>future jobs</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Collaboration",
+        "body": "<ul><li>TEI</li><li>teacher associations</li><li>teacher working group</li><li>schools</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Recognition",
+        "body": "<ul><li>professional associations</li><li>job market</li><li>certification board</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Final Remarks",
+    "displayTitle": "Final Remarks",
+    "body": "",
+    "_id": "5f99c725cd23082f2c576c18",
+    "_parentId": "5f99c721cd23082f2c576c17",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "4IR brings significant impacts  on English teacher profession. Preparing English teachers can no longer be seen as business as usual type of duty.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Exigence for ELE-SP to produce significant changes in terms of institutional mindset, curriculum, and  infrastructures to provide students with high level of competencies needed for 4IR contexts.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Besides language and teaching skills, an effective micro-credential system may be worth to plan as an integral part of the curriculum for more competitive graduates.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Education in 4IR",
+    "displayTitle": "Education in 4IR",
+    "body": "",
+    "_id": "5f99d26acd23082f2c576c2d",
+    "_parentId": "5f99b52dcd23082f2c576bf3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "“It is not only changing what we do  but also what we are.” ",
+        "body": "<p>(Schwab, 2016)</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Jobs nowadays require not only academic qualification but  more specific skills as well as good characters.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "What happens in our classroom, little has changed particularly in the way teacher institution & employers assess and value education.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Therefore, it is a must for ELE-SP to shift paradigm in teaching-learning to prepare future teachers. If we still teach the way they were taught years ago, I am afraid teachers are no longer needed and replaced by virtual classroom, virtual reality and virtual teachers.",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Education in 21st Century",
+    "displayTitle": "Education in 21st Century",
+    "body": "",
+    "_id": "5f99dbe0cd23082f2c576c33",
+    "_parentId": "5f99b958cd23082f2c576bfb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0b212682a1bef377e30381f81cc674f71bf21a20.png",
+      "small": "course/en/assets/0b212682a1bef377e30381f81cc674f71bf21a20.png",
+      "attribution": ""
+    }
+  }
+]

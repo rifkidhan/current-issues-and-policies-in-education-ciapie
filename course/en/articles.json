@@ -1,0 +1,1570 @@
+[
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f984cafea6f3809a0c2eb95",
+    "_parentId": "5f984cafea6f3809a0c2eb94",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f98592aea6f3809a0c2eba9",
+    "_parentId": "5f98592aea6f3809a0c2eba8",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "white-component",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f985960ea6f3809a0c2ebad",
+    "_parentId": "5f985960ea6f3809a0c2ebac",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f98659bea6f3809a0c2ebb7",
+    "_parentId": "5f98659bea6f3809a0c2ebb6",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9865a3ea6f3809a0c2ebbb",
+    "_parentId": "5f9865a3ea6f3809a0c2ebba",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9872f5ea6f3809a0c2ebc9",
+    "_parentId": "5f9872f5ea6f3809a0c2ebc8",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "Bagian Pertama",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987370ea6f3809a0c2ebcc",
+    "_parentId": "5f987370ea6f3809a0c2ebcb",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9873cdea6f3809a0c2ebcf",
+    "_parentId": "5f9873cdea6f3809a0c2ebce",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f98744eea6f3809a0c2ebd4",
+    "_parentId": "5f98744eea6f3809a0c2ebd3",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9874d6ea6f3809a0c2ebd8",
+    "_parentId": "5f9874d6ea6f3809a0c2ebd7",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987511ea6f3809a0c2ebdc",
+    "_parentId": "5f987511ea6f3809a0c2ebdb",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9875f5ea6f3809a0c2ebe1",
+    "_parentId": "5f9875f5ea6f3809a0c2ebe0",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987641ea6f3809a0c2ebe5",
+    "_parentId": "5f987641ea6f3809a0c2ebe4",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987666ea6f3809a0c2ebe9",
+    "_parentId": "5f987666ea6f3809a0c2ebe8",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987683ea6f3809a0c2ebed",
+    "_parentId": "5f987683ea6f3809a0c2ebec",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987718ea6f3809a0c2ebf2",
+    "_parentId": "5f987718ea6f3809a0c2ebf1",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987732ea6f3809a0c2ebf6",
+    "_parentId": "5f987732ea6f3809a0c2ebf5",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f996a3ecd23082f2c576b8a",
+    "_parentId": "5f996a3ecd23082f2c576b89",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9913c697dd7c27cc67308c",
+    "_parentId": "5f984cafea6f3809a0c2eb94",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "Video 21st Century Skill 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991e4c97dd7c27cc6730c9",
+    "_parentId": "5f98592aea6f3809a0c2eba8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9925b597dd7c27cc6730f0",
+    "_parentId": "5f985960ea6f3809a0c2ebac",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    }
+  },
+  {
+    "title": "Video",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9935d497dd7c27cc673144",
+    "_parentId": "5f9872f5ea6f3809a0c2ebc8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Bagian Kedua",
+    "displayTitle": "__________",
+    "body": "<p>Watch the following videos!</p>",
+    "_classes": "whitedient",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f995af7cd23082f2c576b74",
+    "_parentId": "5f987370ea6f3809a0c2ebcb",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f996fbfcd23082f2c576b8f",
+    "_parentId": "5f9874d6ea6f3809a0c2ebd7",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    }
+  },
+  {
+    "title": "Image",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient green-component-solid",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f999026cd23082f2c576baf",
+    "_parentId": "5f987666ea6f3809a0c2ebe8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": true,
+      "_isDisabledWhenAccessibilityActive": true,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f99c930cd23082f2c576c1c",
+    "_parentId": "5f996a3ecd23082f2c576b89",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    }
+  },
+  {
+    "title": "Video 21st Century Skill 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "whitedient",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991f6197dd7c27cc6730d0",
+    "_parentId": "5f98592aea6f3809a0c2eba8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Literacy and Thinking Skills 1",
+    "displayTitle": "__________",
+    "body": "<p>Watch the video below from UNESCO on commemorating International Literacy Day from 2018-2020.</p>",
+    "_classes": "whitedient green-component-solid",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f992aa197dd7c27cc673117",
+    "_parentId": "5f985960ea6f3809a0c2ebac",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": true,
+      "_isDisabledWhenAccessibilityActive": true,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9992b2cd23082f2c576bc9",
+    "_parentId": "5f987666ea6f3809a0c2ebe8",
+    "_type": "article",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    }
+  },
+  {
+    "title": "Video 21st Century Skill 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f991ff397dd7c27cc6730d8",
+    "_parentId": "5f98592aea6f3809a0c2eba8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": false,
+      "_isDisabledWhenAccessibilityActive": false,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Literacy and Thinking Skills 2",
+    "displayTitle": "__________",
+    "body": "<p><span style=\"color:#feffff\">Let's have a look on the two videos which will give you insight into the Programme for International Student Assessment (PISA)survey: who takes the test, who sets the questions, and what can we learn from the findings are among the subjects.</span></p>",
+    "_classes": "greendient white-component-solid",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f992c2a97dd7c27cc673123",
+    "_parentId": "5f985960ea6f3809a0c2ebac",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
+    },
+    "_articleBlockSlider": {
+      "_isEnabled": true,
+      "_isDisabledWhenAccessibilityActive": true,
+      "_slideAnimationDuration": 600,
+      "_heightAnimationDuration": 300,
+      "_isEnabledOnScreenSizes": "large",
+      "_hasTabs": false,
+      "_hasArrows": true,
+      "_startIndex": 0,
+      "_hasUniformHeight": true,
+      "_minHeight": 0
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  }
+]

@@ -1,0 +1,1984 @@
+[
+  {
+    "title": "Basic Course Outline",
+    "displayTitle": "Basic Course Outline",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f984cafea6f3809a0c2eb94",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/b65dc47d0c90e552d929cbdc576a4a697b912cde.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": true,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_hotspotMenu": {
+      "_top": 23,
+      "_left": 12
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "21st Century Skills",
+    "displayTitle": "21st Century Skills",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f98592aea6f3809a0c2eba8",
+    "_parentId": "5f985859ea6f3809a0c2eba7",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/aa7c3152f02f6419e35b61a639624be819bad1de.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Kampus Merdeka, Merdeka Belajar",
+    "displayTitle": "Kampus Merdeka, Merdeka Belajar",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f98659bea6f3809a0c2ebb6",
+    "_parentId": "5f986592ea6f3809a0c2ebb5",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/92a29cda19a60ea4f0f0b53eb8b28d6fdadf98b5.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Industrial Revolution 4.0",
+    "displayTitle": "Industrial Revolution 4.0",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9875f5ea6f3809a0c2ebe0",
+    "_parentId": "5f9875c5ea6f3809a0c2ebdf",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/5ceeace3d9f313a63e4c41f95bc0c87f23583896.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": true,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Indonesian Literacy Rate",
+    "displayTitle": "Indonesian Literacy Rate",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987718ea6f3809a0c2ebf1",
+    "_parentId": "5f9876dbea6f3809a0c2ebf0",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/a9ec4a90afb2b2019905a11db78f541d64f7851e.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": true,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Prospective English Teachers in Disruptive Era",
+    "displayTitle": "Prospective English Teachers in Disruptive Era",
+    "body": "",
+    "_classes": "",
+    "subtitle": "What to Prepare Most?",
+    "pageBody": "<p>Ilza Mayuni, Universitas Negeri Jakarta, ICOELT, 2019.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f996a3ecd23082f2c576b89",
+    "_parentId": "5f9865a0ea6f3809a0c2ebb9",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/389286b7281a3550c7a1a83deda2385e0677ae95.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": true,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "The 21st Century Learning and Skills of Disruptive Innovators",
+    "displayTitle": "The 21st Century Learning and Skills of Disruptive Innovators",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f985859ea6f3809a0c2eba7",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/44f25c40f7120b231b43e31b6141b0486ba9c8c9.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Literacy and Thinking Skills",
+    "displayTitle": "Literacy and Thinking Skills",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f985960ea6f3809a0c2ebac",
+    "_parentId": "5f985859ea6f3809a0c2eba7",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/28a37bc5bb99981953e4f870fa39d5e46bcb5d46.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": true,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Common European Framework of References for Languages (CEFR)",
+    "displayTitle": "Common European Framework of References for Languages (CEFR)",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9865a3ea6f3809a0c2ebba",
+    "_parentId": "5f9865a0ea6f3809a0c2ebb9",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6775756dc7dd8f77f1ffa2a742634408bed49561.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Coping with Virtual Teaching During Pandemic",
+    "displayTitle": "Coping with Virtual Teaching During Pandemic",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987370ea6f3809a0c2ebcb",
+    "_parentId": "5f986592ea6f3809a0c2ebb5",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/ddf5757994d18974e484db60422de46541247eb2.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Higher Education IR 4.0",
+    "displayTitle": "Higher Education IR 4.0",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987641ea6f3809a0c2ebe4",
+    "_parentId": "5f9875c5ea6f3809a0c2ebdf",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/b105df06898c794fd5a77a965922abbfd9a3302b.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Assessment in 21st Century Education",
+    "displayTitle": "Assessment in 21st Century Education",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987732ea6f3809a0c2ebf5",
+    "_parentId": "5f9876dbea6f3809a0c2ebf0",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/15ab81c78b44607e8703f17bac088b6b053234ab.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": true,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Current Issues and Policies In Education Across Countries",
+    "displayTitle": "Current Issues and Policies In Education Across Countries",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f986592ea6f3809a0c2ebb5",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/3a84033ab9f28218f80b8614b21548472ad0315c.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Challenges and Strategies",
+    "displayTitle": "Challenges and Strategies",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9872f5ea6f3809a0c2ebc8",
+    "_parentId": "5f985859ea6f3809a0c2eba7",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/f1625a56f98c2ad26b9651eace25b5e2e0d7c262.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Literacy Enrichment Across Countries",
+    "displayTitle": "Literacy Enrichment Across Countries",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9873cdea6f3809a0c2ebce",
+    "_parentId": "5f986592ea6f3809a0c2ebb5",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/621b346c054e679792a6f1335cbe6e9833545997.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "The Quality of Teacher Education Institution",
+    "displayTitle": "The Quality of Teacher Education Institution",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9874d6ea6f3809a0c2ebd7",
+    "_parentId": "5f9865a0ea6f3809a0c2ebb9",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/aa0fd191ced5461af90414576df7eb499fb377c2.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": true,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Future Skills for Future Jobs",
+    "displayTitle": "Future Skills for Future Jobs",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987666ea6f3809a0c2ebe8",
+    "_parentId": "5f9875c5ea6f3809a0c2ebdf",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/157e88d7f948445ed78a6d882bb63eb0bfb8decd.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": true,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Prospective English Teachers In Disruptive Era",
+    "displayTitle": "Prospective English Teachers In Disruptive Era",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9865a0ea6f3809a0c2ebb9",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/94ff35f9e7bd81435b02ce01fff55ec1b07039b3.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Asesmen Nasional",
+    "displayTitle": "Asesmen Nasional",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f98744eea6f3809a0c2ebd3",
+    "_parentId": "5f986592ea6f3809a0c2ebb5",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/15ab81c78b44607e8703f17bac088b6b053234ab.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "European Profiling Grid (EPG)",
+    "displayTitle": "European Profiling Grid (EPG)",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987511ea6f3809a0c2ebdb",
+    "_parentId": "5f9865a0ea6f3809a0c2ebb9",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6fc28be9d0d7a4001497a448118b9998912f4645.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "4 C's Skills",
+    "displayTitle": "4 C's Skills",
+    "body": "",
+    "_classes": "",
+    "subtitle": "(Critical Thinking, Communication, Collaboration, Creativity)",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f987683ea6f3809a0c2ebec",
+    "_parentId": "5f9875c5ea6f3809a0c2ebdf",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/bea5df3ac4f4ac8d67a0fffaa7dd1a81e8d84dee.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Innovation in Education of the Era of Industrial Revolution Era 4.0 ",
+    "displayTitle": "Innovation in Education of the Era of Industrial Revolution Era 4.0 ",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9875c5ea6f3809a0c2ebdf",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/e4c5ca8ae25931f02d63a23b45764d7a097923e4.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Current Issues Published in Reputable Sources",
+    "displayTitle": "Current Issues Published in Reputable Sources",
+    "body": "<p>This part highlights current educational issues published in various reputable sources</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9876dbea6f3809a0c2ebf0",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/7d2fc51293ded29ef362e9c74b0a1befb998edcc.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": false,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
+    "_bgScroll": {
+      "_isEnabled": false,
+      "_children": "blocks"
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "_backgroundSwitcher": {
+      "_isEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]
